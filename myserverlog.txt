@@ -1,0 +1,32 @@
+WebServer started: listening on port: 8396
+WebServer started: listening on port: 8396
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56899,localport=8396]
+response sent to client on socket: 
+client socket has been closed
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56900,localport=8396]
+response sent to client on socket: 
+client socket has been closed
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56901,localport=8396]
+response sent to client on socket: 
+client socket has been closed
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56902,localport=8396]
+response sent to client on socket: 
+client socket has been closed
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56903,localport=8396]
+response sent to client on socket: 
+client socket has been closed
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56904,localport=8396]
+response sent to client on socket: 
+client socket has been closed
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56905,localport=8396]
+response sent to client on socket: 
+client socket has been closed
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56906,localport=8396]
+response sent to client on socket: 
+client socket has been closed
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56907,localport=8396]
+response sent to client on socket: 
+client socket has been closed
+Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56908,localport=8396]
+response sent to client on socket: 
+client socket has been closed
