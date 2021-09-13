@@ -30,3 +30,65 @@ client socket has been closed
 Accepted request from a client socket : Socket[addr=/127.0.0.1,port=56908,localport=8396]
 response sent to client on socket: 
 client socket has been closed
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=49674,localport=8396]
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=50397,localport=8396]
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=58879,localport=8396]
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57774,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57774,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57775,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57775,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57776,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57776,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57777,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57777,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57778,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57778,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57779,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57779,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57780,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57780,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57781,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57781,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57782,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57782,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/127.0.0.1,port=57783,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/127.0.0.1,port=57783,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=53760,localport=8396]
+response sent to client on socket: 
+Cpnnection to client socket (Socket[addr=/0:0:0:0:0:0:0:1,port=53760,localport=8396]) is now closed
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=51561,localport=8396]
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=55407,localport=8396]
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=54906,localport=8396]
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=56160,localport=8396]
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=54825,localport=8396]
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=53914,localport=8396]
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=50483,localport=8396]
+Cpnnection to client socket (Socket[addr=/0:0:0:0:0:0:0:1,port=50483,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=65016,localport=8396]
+Cpnnection to client socket (Socket[addr=/0:0:0:0:0:0:0:1,port=65016,localport=8396]) is now closed
+WebServer started: listening on port: 8396
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=54942,localport=8396]
+response sent to client: Socket[addr=/0:0:0:0:0:0:0:1,port=54942,localport=8396]
+Cpnnection to client socket (Socket[addr=/0:0:0:0:0:0:0:1,port=54942,localport=8396]) is now closed
+Connected to a client at client socket : Socket[addr=/0:0:0:0:0:0:0:1,port=49868,localport=8396]
